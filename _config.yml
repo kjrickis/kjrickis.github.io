@@ -1,8 +1,8 @@
 title: kjrickis.com
 theme: jekyll-theme-architect
-   comments:
+comments: 
  provider: "staticman"
-   staticman:
+ staticman:
  allowedFields          : ['name', 'email', 'url', 'message']
  branch                 : # "master", "gh-pages"
  commitMessage          : "New comment."
