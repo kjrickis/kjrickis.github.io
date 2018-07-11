@@ -1,6 +1,6 @@
 title: kjrickis.com
 theme: jekyll-theme-architect
- comments:
+   comments:
  provider: "staticman"
    staticman:
  allowedFields          : ['name', 'email', 'url', 'message']
